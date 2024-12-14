@@ -7,8 +7,7 @@ body {
 /* Scroll background */
 .scroll {
     background-attachment: scroll;
-    border-style: groove;
-    border-width: 10px;
+    border-style: dashed double groove unset;
 }
 
 /* Fixed background */
