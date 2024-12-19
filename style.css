@@ -10,6 +10,8 @@ body {
 .scroll {
     background-attachment: scroll;
     border-style: dashed double groove unset;
+    border-color: red green yellow black;
+    border-width: 9px 10px 11px 12px;
 }
 
 /* Fixed background */
