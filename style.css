@@ -2,6 +2,8 @@
 body {
     background-image: url('10.PNG');
     background-size: cover;
+    background-repeat: repeat;
+    background-position: center;
 }
 
 /* Scroll background */
